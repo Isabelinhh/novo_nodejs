@@ -1,0 +1,22 @@
+{
+  "name": "exercicio-32-simples",
+  "version": "1.0.0",
+  "description": "Versão simplificada do Exercício 32 - API REST com Express.js",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "keywords": [
+    "express",
+    "api",
+    "rest",
+    "crud",
+    "backend"
+  ],
+  "author": "Estudante Backend",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
